@@ -1,0 +1,19 @@
+{
+  "qq_number": "3820169261",
+  "group_number": "760100988",
+  "updated_at": "2026-04-23T15:52:39.001285",
+  "skins": [
+    {
+      "name": "婷咪の主题配套",
+      "file": "婷咪の主题配套.bdi",
+      "thumb": "婷咪の主题配套.bdi_py_26_default_thumb.png",
+      "full": "婷咪の主题配套.bdi_py_26_default.png"
+    },
+    {
+      "name": "婷咪の主题配套",
+      "file": "婷咪の主题配套.bds",
+      "thumb": "婷咪の主题配套.bds_py_26_default_thumb.png",
+      "full": "婷咪の主题配套.bds_py_26_default.png"
+    }
+  ]
+}
