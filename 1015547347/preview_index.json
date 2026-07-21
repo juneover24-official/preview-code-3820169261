@@ -1,7 +1,7 @@
 {
   "qq_number": "3820169261",
   "group_number": "1015547347",
-  "updated_at": "2026-07-21T06:39:48+00:00",
+  "updated_at": "2026-07-21T14:44:59+00:00",
   "skins": [
     {
       "name": "婷の永469",
@@ -2432,6 +2432,12 @@
       "file": "婷の永552.bdi",
       "thumb": "婷の永552.bdi_py_26_light_thumb.png",
       "full": "婷の永552.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "婷の永522",
+      "file": "婷の永552.bds",
+      "thumb": "婷の永552.bds_py_26_light_thumb.png",
+      "full": "婷の永552.bds_py_26_light_thumb.png"
     }
   ]
 }
